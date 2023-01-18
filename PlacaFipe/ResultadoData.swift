@@ -10,6 +10,7 @@ import SwiftUI
 struct ResultadoData: View {
     @State var field1 = "field1"
     @State var field2 = "field2"
+    
     var body: some View {
         HStack{
         Text("\(field1):")

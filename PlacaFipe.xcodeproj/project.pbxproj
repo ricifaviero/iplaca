@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D909659A2976F1150073BADB /* Historico.swift in Sources */ = {isa = PBXBuildFile; fileRef = D90965992976F1150073BADB /* Historico.swift */; };
 		D91BF5C82976C29900FC9BE8 /* PlacaFipeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D91BF5C72976C29900FC9BE8 /* PlacaFipeApp.swift */; };
 		D91BF5CA2976C29900FC9BE8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D91BF5C92976C29900FC9BE8 /* ContentView.swift */; };
 		D91BF5CC2976C29A00FC9BE8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D91BF5CB2976C29A00FC9BE8 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D90965992976F1150073BADB /* Historico.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Historico.swift; sourceTree = "<group>"; };
 		D91BF5C42976C29900FC9BE8 /* PlacaFipe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PlacaFipe.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D91BF5C72976C29900FC9BE8 /* PlacaFipeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlacaFipeApp.swift; sourceTree = "<group>"; };
 		D91BF5C92976C29900FC9BE8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				D91BF5C72976C29900FC9BE8 /* PlacaFipeApp.swift */,
 				D91BF5C92976C29900FC9BE8 /* ContentView.swift */,
 				D91BF5D72976D66300FC9BE8 /* Resultado.swift */,
+				D90965992976F1150073BADB /* Historico.swift */,
 				D91BF5D92976D7C100FC9BE8 /* ResultadoData.swift */,
 				D91BF5CB2976C29A00FC9BE8 /* Assets.xcassets */,
 				D91BF5CD2976C29A00FC9BE8 /* Preview Content */,
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D91BF5DA2976D7C100FC9BE8 /* ResultadoData.swift in Sources */,
+				D909659A2976F1150073BADB /* Historico.swift in Sources */,
 				D91BF5CA2976C29900FC9BE8 /* ContentView.swift in Sources */,
 				D91BF5D82976D66300FC9BE8 /* Resultado.swift in Sources */,
 				D91BF5C82976C29900FC9BE8 /* PlacaFipeApp.swift in Sources */,
